@@ -54,7 +54,3 @@ proxy_temp
 fastcgi_temp
 client_body_temp
 utils/lj-releng
-
-# idea
-.idea/
-*.iml
